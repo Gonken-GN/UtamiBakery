@@ -1,0 +1,37 @@
+solusi: 
+meliputi pembuatan website ecommerce dan profil perusahaan, desain ulang logo perusahaan, serta pembuatan template postingan Instagram. Diharapkan, melalui implementasi solusi ini, informasi produk dapat disebarluaskan dengan lebih mudah dan luas, perusahaan dapat menjangkau pasar yang lebih luas, dan memberikan pengalaman yang lebih baik bagi konsumen.
+
+- Membuat Website Ecommerce dan Company Profile: Sebagai platform digital utama perusahaan yang menyajikan informasi detil tentang produk dan profil perusahaan. Website ini membantu konsumen memahami produk dan melakukan transaksi secara langsung. Dengan memperkuat online presence melalui website dan media sosial, perusahaan dapat menjangkau pasar yang lebih luas dan berinteraksi langsung dengan konsumennya (Meningkatkan Online Presence). Melalui penggunaan platform digital yang efektif, perusahaan dapat memberikan pengalaman yang lebih baik kepada konsumen, memudahkan mereka mendapatkan informasi produk, dan berinteraksi langsung dengan perusahaan. Hal ini dapat meningkatkan kepuasan pelanggan dan loyalitas mereka terhadap perusahaan (Meningkatkan Customer Satisfaction).
+- Mendesain Ulang Logo Perusahaan: Memperbarui tampilan logo agar lebih menarik dan profesional, yang pada gilirannya dapat mempengaruhi persepsi positif konsumen terhadap perusahaan dan produk yang ditawarkan.
+- Membuat Template Postingan Instagram: Mengatur estetika feed Instagram perusahaan dengan template yang konsisten untuk menciptakan citra merek yang kuat, sehingga meningkatkan minat dan interaksi pengguna.
+
+
+
+
+future & development: 
+
+Kami telah berhasil mengembangkan dan mengimplementasikan berbagai fitur dan halaman dalam website untuk perusahaan roti ini. Rancangan ini bertujuan untuk memfasilitasi penjualan online yang efektif dan memberikan pengalaman user-friendly kepada pengguna. Berikut adalah poin-poin yang akan kami sampaikan dalam presentasi bagian development:
+
+- Landing Page / Homepage: Menampilkan deskripsi singkat perusahaan, produk terlaris, testimoni dari pelanggan, serta kontak dan alamat perusahaan. Ini adalah halaman pertama yang dilihat pengunjung, dan kami telah merancangnya agar informatif dan menarik.
+- Catalog: Menghadirkan filter dan fungsi pencarian produk, daftar katalog produk, dan fitur untuk membagikan dan menambahkan produk ke keranjang. Ini memudahkan pengguna dalam mencari dan memilih produk yang mereka inginkan.
+- Cart Product: Pengguna dapat melihat produk yang telah mereka tambahkan ke keranjang, memperbarui jumlah produk, dan melanjutkan ke proses pembayaran.
+- Transaksi Via Whatsapp: Untuk memudahkan komunikasi dan transaksi, kami telah mengintegrasikan fungsi transaksi langsung ke Whatsapp.
+- Blog: Halaman untuk postingan artikel oleh admin. Ini adalah platform untuk berbagi berita terbaru, resep, atau informasi lainnya yang berkaitan dengan perusahaan dan produknya.
+- Company Profile: Menampilkan banner perusahaan, deskripsi, dan identitas perusahaan. Halaman ini memberikan gambaran lebih jelas tentang perusahaan kepada pengunjung.
+- User Profile: Pengguna dapat mengedit profil mereka dan mengganti foto profil. Ini memberikan pengalaman yang lebih personal dan memudahkan dalam pengelolaan akun.
+- Autentikasi: Fitur login, logout, signup, lupa password, dan ganti password. Semua fitur ini memberikan pengalaman yang aman dan terkontrol kepada pengguna.
+- Role User dan Admin: Pengguna dibagi menjadi user biasa dan admin. Admin memiliki dashboard khusus untuk melihat performa penjualan, melakukan operasi CRUD (Create, Read, Update, Delete) pada produk, blog, dan pengguna.
+
+Dengan mengimplementasikan fitur-fitur ini, kami berharap dapat memaksimalkan kepuasan pengguna dan meningkatkan penjualan melalui platform digital ini.
+
+
+
+
+future:
+Untuk pengembangan kedepannya, kami telah merencanakan beberapa peningkatan dan penambahan fitur untuk memaksimalkan pengalaman pengguna dan efisiensi operasional. Berikut adalah beberapa titik penting untuk "future development":
+
+- Otentikasi OTP: Kami berencana untuk menerapkan otentikasi melalui One Time Password (OTP) untuk proses registrasi dan saat pengguna lupa password. Fitur ini akan meningkatkan keamanan dan integritas data pengguna pada platform kami.
+- Server Berbayar: Untuk meningkatkan kecepatan dan performa website, kami sedang mempertimbangkan untuk beralih ke server berbayar. Dengan server yang lebih baik, kami dapat menjamin uptime yang lebih tinggi dan respons yang lebih cepat, sehingga pengalaman pengguna menjadi lebih lancar.
+- Responsif Mobile: Mengingat jumlah pengguna mobile yang terus meningkat, kami berencana untuk membuat website menjadi lebih responsif pada perangkat mobile. Dengan demikian, pengguna dapat mengakses website dengan tampilan dan fungsi yang optimal, baik dari desktop maupun perangkat mobile.
+
+Melalui pengembangan ini, kami berusaha untuk selalu memperbarui dan meningkatkan layanan kami, untuk memenuhi kebutuhan 
